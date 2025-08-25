@@ -15,25 +15,7 @@ All analysis, cleaning, and reporting were done using **Excel (Power Query, Pivo
 
 ---
 
-## 📂 Folder Structure
-Ecommerce_Sales_Excel_Project/
-│── 01_Data/
-│ ├── raw_sales.xlsx # Original dataset (uncleaned)
-│ ├── cleaned_sales.xlsx # Processed data (ready for analysis)
-│
-│── 02_Analysis/
-│ ├── pivot_reports.xlsx # PivotTables & KPI calculations
-│
-│── 03_Documentation/
-│ ├── data_dictionary.xlsx # Explanation of fields
-│ ├── methodology.docx # Steps, formulas, and process notes
-│
-│── 04_Reports/
-│ ├── ecommerce_dashboard.xlsx # Final Excel Dashboard
-│ ├── executive_summary.pdf # One-page insights summary
-│
-│── README.md # Project documentation
----
+
 
 ## 📊 Dataset
 The dataset contains **1,000+ transaction records** with the following fields:  
